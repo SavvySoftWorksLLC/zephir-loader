@@ -1,0 +1,21 @@
+{
+  "name": "zephir-loader",
+  "version": "0.1.0",
+  "author": "Paul Scarrone<paul@savvysoftworks.com>",
+  "description": "zephir loader module for webpack",
+  "keywords": [
+    "webpack",
+    "zephir",
+    "php",
+    "loader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:savvysoftworks/zephir-loader.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.0.5",
+    "loader-utils": "latest"
+  }
+}
